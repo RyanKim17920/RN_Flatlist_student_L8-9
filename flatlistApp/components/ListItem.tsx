@@ -5,7 +5,7 @@ import colors from "../styles/colors";
 // declare data type for props here
 
 const ListItem = () => {
-  return <View></View>;
+  return <View>a</View>;
 };
 
 export default ListItem;
